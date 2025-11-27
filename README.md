@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="[https://arxiv.org/abs/2511.17361](https://arxiv.org/abs/2509.26087)">[arXiv]</a>
+<a href="https://arxiv.org/abs/2509.26087">[arXiv]</a>
 </p>
 
 ## EasyOcc Model
