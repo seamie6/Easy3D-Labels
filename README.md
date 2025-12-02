@@ -2,7 +2,6 @@
 
 <p align="center">
 <strong>Seamie Hayes</strong><sup>1,2</sup>, 
-<strong>Reenu Mohandas</strong><sup>1</sup>, 
 <strong>Ganesh Sistu</strong><sup>1</sup>,
 <strong>Ciaran Eising</strong><sup>1,2</sup>
 </p>
