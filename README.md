@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2509.26087">[arXiv]</a>
+<a href="https://arxiv.org/abs/2509.26087">
+  <img src="https://img.shields.io/badge/arXiv-2509.26087-b31b1b.svg">
+</a>
 </p>
 
 ## EasyOcc Model
