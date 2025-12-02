@@ -19,7 +19,7 @@
 ## EasyOcc Model
 <img src="assets/easyocc.jpg" width="100%">
 
-## EasyOcc 3D Pseudo-Label Construction
+## Easy3D-Labels: 3D Pseudo-Label Construction
 <img src="assets/labels.jpg" width="100%">
 
 ## Abstract
