@@ -1,9 +1,9 @@
 <h1 align="center">EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models</h1>
 
 <p align="center">
-<strong>Seamie Hayes</strong><sup>1,2</sup>, 
-<strong>Ganesh Sistu</strong><sup>1</sup>,
-<strong>Ciaran Eising</strong><sup>1,2</sup>
+  <a href="https://scholar.google.com/citations?user=3fffnjYAAAAJ&hl=en&authuser=1" target="_blank"><strong>Seamie Hayes</strong></a><sup>1,2</sup>,
+  <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ&hl=en&authuser=1" target="_blank"><strong>Ganesh Sistu</strong></a><sup>1</sup>,
+  <a href="https://scholar.google.com/citations?user=aH6w8VcAAAAJ&hl=en&authuser=1" target="_blank"><strong>Ciaran Eising</strong></a><sup>1,2</sup>
 </p>
 
 <p align="center">
