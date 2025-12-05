@@ -9,7 +9,7 @@
 <sup>1</sup> D²iCE Research Centre, University of Limerick &nbsp;&nbsp; <sup>2</sup>Taighde Éireann – Research Ireland &nbsp;&nbsp;
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.26087-b31b1b)](https://arxiv.org/abs/2509.26087)
-[![Mendeley](https://img.shields.io/badge/Mendeley-10.17632-orange)](https://data.mendeley.com/datasets/XXXXXX)
+[![Mendeley](https://img.shields.io/badge/Mendeley-9scymfs7xv-orange)](https://data.mendeley.com/datasets/9scymfs7xv/1)
 </div>
 
 
