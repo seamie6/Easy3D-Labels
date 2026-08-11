@@ -42,13 +42,11 @@ I would like to thank the authors of the following open-source projects:<br>
 
 ## Citation
 ```
-@misc{hayes2025easyocc3dpseudolabelsupervision,
-      title={EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models}, 
-      author={Seamie Hayes and Ganesh Sistu and Ciarán Eising},
-      year={2025},
-      eprint={2509.26087},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.26087}, 
+@article{hayes2026easy3d,
+  title={Easy3D-Labels: Supervising Semantic Occupancy Estimation with 3D Pseudo-Labels for Automotive Perception},
+  author={Hayes, Seamie and Sistu, Ganesh and Brophy, Tim and Eising, Ciaran},
+  journal={IEEE Open Journal of Vehicular Technology},
+  year={2026},
+  publisher={IEEE}
 }
 ```
